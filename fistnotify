@@ -67,7 +67,7 @@ Fistware["Themes"] = {
             ["BackgroundColor3"] = Color3.fromRGB(25, 20, 20);
         },
         ["TextLabel"] = {
-            ["TextColor3"] = Color3.fromRGB(30, 215, 96)
+            ["TextColor3"] = Color3.fromRGB(215, 30, 30);
         }
     }
 }
